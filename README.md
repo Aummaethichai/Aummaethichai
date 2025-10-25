@@ -69,7 +69,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <!-- docker -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-
+<a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303460/redis-logo.svg" width="36" height="36" alt="redis" /></a>
+<a href="https://blog.min.io/continuing-the-journey-our-new-mascot-and-wordmark/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/minio-1.svg" width="36" height="36" alt="minio" /></a>
 </p>
 
 ### Code Editors
